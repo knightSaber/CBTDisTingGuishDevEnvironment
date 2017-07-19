@@ -12,7 +12,6 @@
 		B2BAA0C11F1EF5100054DC98 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B2BAA0C01F1EF5100054DC98 /* ViewController.m */; };
 		B2BAA0C41F1EF5100054DC98 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2BAA0C21F1EF5100054DC98 /* Main.storyboard */; };
 		B2BAA0C71F1EF5100054DC98 /* CBTDisTingGuishDevEnvironment.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B2BAA0C51F1EF5100054DC98 /* CBTDisTingGuishDevEnvironment.xcdatamodeld */; };
-		B2BAA0C91F1EF5100054DC98 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2BAA0C81F1EF5100054DC98 /* Assets.xcassets */; };
 		B2BAA0CC1F1EF5100054DC98 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2BAA0CA1F1EF5100054DC98 /* LaunchScreen.storyboard */; };
 		B2BAA0D51F1EFA1F0054DC98 /* KKKConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = B2BAA0D41F1EFA1F0054DC98 /* KKKConfig.m */; };
 		B2BAA0EA1F1F10C40054DC98 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B2BAA0C01F1EF5100054DC98 /* ViewController.m */; };
@@ -21,12 +20,13 @@
 		B2BAA0ED1F1F10C40054DC98 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B2BAA0BD1F1EF5100054DC98 /* AppDelegate.m */; };
 		B2BAA0EE1F1F10C40054DC98 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B2BAA0BA1F1EF5100054DC98 /* main.m */; };
 		B2BAA0F11F1F10C40054DC98 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2BAA0CA1F1EF5100054DC98 /* LaunchScreen.storyboard */; };
-		B2BAA0F21F1F10C40054DC98 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2BAA0C81F1EF5100054DC98 /* Assets.xcassets */; };
 		B2BAA0F31F1F10C40054DC98 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2BAA0C21F1EF5100054DC98 /* Main.storyboard */; };
+		B2BAA0FD1F1F3AA20054DC98 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2BAA0FC1F1F3AA20054DC98 /* Assets.xcassets */; };
+		B2BAA0FE1F1F3AD80054DC98 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2BAA0FC1F1F3AA20054DC98 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		B2BAA0B61F1EF5100054DC98 /* CBTDisTingGuishDevEnvironment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CBTDisTingGuishDevEnvironment.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B2BAA0B61F1EF5100054DC98 /* CBTSubscriptDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CBTSubscriptDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2BAA0BA1F1EF5100054DC98 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B2BAA0BC1F1EF5100054DC98 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B2BAA0BD1F1EF5100054DC98 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -34,13 +34,13 @@
 		B2BAA0C01F1EF5100054DC98 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		B2BAA0C31F1EF5100054DC98 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B2BAA0C61F1EF5100054DC98 /* CBTDisTingGuishDevEnvironment.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CBTDisTingGuishDevEnvironment.xcdatamodel; sourceTree = "<group>"; };
-		B2BAA0C81F1EF5100054DC98 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B2BAA0CB1F1EF5100054DC98 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		B2BAA0CD1F1EF5100054DC98 /* CBTDisTingGuishDevEnvironment.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = CBTDisTingGuishDevEnvironment.plist; sourceTree = "<group>"; };
+		B2BAA0CD1F1EF5100054DC98 /* CBTSubscriptDemo.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = CBTSubscriptDemo.plist; sourceTree = "<group>"; };
 		B2BAA0D31F1EFA1F0054DC98 /* KKKConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KKKConfig.h; sourceTree = "<group>"; };
 		B2BAA0D41F1EFA1F0054DC98 /* KKKConfig.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KKKConfig.m; sourceTree = "<group>"; };
 		B2BAA0F71F1F10C40054DC98 /* CBTDisTingGuishAppStoreEnvironment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CBTDisTingGuishAppStoreEnvironment.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2BAA0F81F1F10C50054DC98 /* CBTDisTingGuishAppStoreEnvironment.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = CBTDisTingGuishAppStoreEnvironment.plist; path = /Users/chenbotao/Desktop/CBTDisTingGuishDevEnvironment/CBTDisTingGuishAppStoreEnvironment.plist; sourceTree = "<absolute>"; };
+		B2BAA0FC1F1F3AA20054DC98 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +64,7 @@
 		B2BAA0AD1F1EF5100054DC98 = {
 			isa = PBXGroup;
 			children = (
-				B2BAA0B81F1EF5100054DC98 /* CBTDisTingGuishDevEnvironment */,
+				B2BAA0B81F1EF5100054DC98 /* CBTSubscriptDemo */,
 				B2BAA0B71F1EF5100054DC98 /* Products */,
 				B2BAA0F81F1F10C50054DC98 /* CBTDisTingGuishAppStoreEnvironment.plist */,
 			);
@@ -73,15 +73,16 @@
 		B2BAA0B71F1EF5100054DC98 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B2BAA0B61F1EF5100054DC98 /* CBTDisTingGuishDevEnvironment.app */,
+				B2BAA0B61F1EF5100054DC98 /* CBTSubscriptDemo.app */,
 				B2BAA0F71F1F10C40054DC98 /* CBTDisTingGuishAppStoreEnvironment.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B2BAA0B81F1EF5100054DC98 /* CBTDisTingGuishDevEnvironment */ = {
+		B2BAA0B81F1EF5100054DC98 /* CBTSubscriptDemo */ = {
 			isa = PBXGroup;
 			children = (
+				B2BAA0FC1F1F3AA20054DC98 /* Assets.xcassets */,
 				B2BAA0D31F1EFA1F0054DC98 /* KKKConfig.h */,
 				B2BAA0D41F1EFA1F0054DC98 /* KKKConfig.m */,
 				B2BAA0BC1F1EF5100054DC98 /* AppDelegate.h */,
@@ -89,12 +90,12 @@
 				B2BAA0BF1F1EF5100054DC98 /* ViewController.h */,
 				B2BAA0C01F1EF5100054DC98 /* ViewController.m */,
 				B2BAA0C21F1EF5100054DC98 /* Main.storyboard */,
-				B2BAA0C81F1EF5100054DC98 /* Assets.xcassets */,
 				B2BAA0CA1F1EF5100054DC98 /* LaunchScreen.storyboard */,
-				B2BAA0CD1F1EF5100054DC98 /* CBTDisTingGuishDevEnvironment.plist */,
+				B2BAA0CD1F1EF5100054DC98 /* CBTSubscriptDemo.plist */,
 				B2BAA0C51F1EF5100054DC98 /* CBTDisTingGuishDevEnvironment.xcdatamodeld */,
 				B2BAA0B91F1EF5100054DC98 /* Supporting Files */,
 			);
+			name = CBTSubscriptDemo;
 			path = CBTDisTingGuishDevEnvironment;
 			sourceTree = "<group>";
 		};
@@ -109,21 +110,23 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B2BAA0B51F1EF5100054DC98 /* CBTDisTingGuishDevEnvironment */ = {
+		B2BAA0B51F1EF5100054DC98 /* CBTSubscriptDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B2BAA0D01F1EF5100054DC98 /* Build configuration list for PBXNativeTarget "CBTDisTingGuishDevEnvironment" */;
+			buildConfigurationList = B2BAA0D01F1EF5100054DC98 /* Build configuration list for PBXNativeTarget "CBTSubscriptDemo" */;
 			buildPhases = (
 				B2BAA0B21F1EF5100054DC98 /* Sources */,
 				B2BAA0B31F1EF5100054DC98 /* Frameworks */,
 				B2BAA0B41F1EF5100054DC98 /* Resources */,
+				B2BAA0FA1F1F34610054DC98 /* icon script for debug environment */,
+				B2BAA0FF1F1F3BF90054DC98 /* version */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = CBTDisTingGuishDevEnvironment;
+			name = CBTSubscriptDemo;
 			productName = CBTDisTingGuishDevEnvironment;
-			productReference = B2BAA0B61F1EF5100054DC98 /* CBTDisTingGuishDevEnvironment.app */;
+			productReference = B2BAA0B61F1EF5100054DC98 /* CBTSubscriptDemo.app */;
 			productType = "com.apple.product-type.application";
 		};
 		B2BAA0E81F1F10C40054DC98 /* CBTDisTingGuishAppStoreEnvironment */ = {
@@ -133,6 +136,8 @@
 				B2BAA0E91F1F10C40054DC98 /* Sources */,
 				B2BAA0EF1F1F10C40054DC98 /* Frameworks */,
 				B2BAA0F01F1F10C40054DC98 /* Resources */,
+				B2BAA0FB1F1F397C0054DC98 /* icon script for app */,
+				B2BAA1001F1F3C140054DC98 /* version */,
 			);
 			buildRules = (
 			);
@@ -158,7 +163,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B2BAA0B11F1EF5100054DC98 /* Build configuration list for PBXProject "CBTDisTingGuishDevEnvironment" */;
+			buildConfigurationList = B2BAA0B11F1EF5100054DC98 /* Build configuration list for PBXProject "CBTSubscriptDemo" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -171,7 +176,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B2BAA0B51F1EF5100054DC98 /* CBTDisTingGuishDevEnvironment */,
+				B2BAA0B51F1EF5100054DC98 /* CBTSubscriptDemo */,
 				B2BAA0E81F1F10C40054DC98 /* CBTDisTingGuishAppStoreEnvironment */,
 			);
 		};
@@ -183,7 +188,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B2BAA0CC1F1EF5100054DC98 /* LaunchScreen.storyboard in Resources */,
-				B2BAA0C91F1EF5100054DC98 /* Assets.xcassets in Resources */,
+				B2BAA0FD1F1F3AA20054DC98 /* Assets.xcassets in Resources */,
 				B2BAA0C41F1EF5100054DC98 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -193,12 +198,71 @@
 			buildActionMask = 2147483647;
 			files = (
 				B2BAA0F11F1F10C40054DC98 /* LaunchScreen.storyboard in Resources */,
-				B2BAA0F21F1F10C40054DC98 /* Assets.xcassets in Resources */,
+				B2BAA0FE1F1F3AD80054DC98 /* Assets.xcassets in Resources */,
 				B2BAA0F31F1F10C40054DC98 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		B2BAA0FA1F1F34610054DC98 /* icon script for debug environment */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "icon script for debug environment";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "IFS=$'\\n'\nbuildNumber=$(/usr/libexec/PlistBuddy -c \"Print CFBundleVersion\" \"${INFOPLIST_FILE}\")\nversionNumber=$(/usr/libexec/PlistBuddy -c \"Print CFBundleShortVersionString\" \"${INFOPLIST_FILE}\")\nbundleIdentifier=${PRODUCT_BUNDLE_IDENTIFIER}\n\nPATH=${PATH}:/usr/local/bin\n\necho \"this is PR Environment\"\n\nfunction generateIcon () {\n    \n    BASE_IMAGE_NAME=$1\n    \n    TARGET_PATH=\"${BUILT_PRODUCTS_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/${BASE_IMAGE_NAME}\"\n    echo \"this line is target path\"\n    echo $TARGET_PATH\n    echo $SRCROOT\n    echo $(find ${SRCROOT} -name \"AppIcon60x60@2x.png\")\n    BASE_IMAGE_PATH=$(find ${SRCROOT} -name ${BASE_IMAGE_NAME})\n    WIDTH=$(identify -format %w ${BASE_IMAGE_PATH})\n    FONT_SIZE=$(echo \"$WIDTH * .15\" | bc -l)\n    echo \"font size $FONT_SIZE\"\n    \n    iconbadgeDebug=\"${SRCROOT}/iconbadge/debugRibbon.png\"\n    iconbadgeRelease=\"${SRCROOT}/iconbadge/betaRibbon.png\"\n    resizedIconBadge=\"${SRCROOT}/iconbadge/resizedRibbon.png\"\n    echo \"iconbadge is $iconbadge\"\n    \n    if [ \"${CONFIGURATION}\" == \"Debug\" ]; then\n    convert ${iconbadgeDebug} -resize ${WIDTH}x${WIDTH} ${resizedIconBadge}\n    convert ${BASE_IMAGE_PATH} -fill white -font Times-Bold -pointsize ${FONT_SIZE} -gravity south -annotate 0 \"$versionNumber.$buildNumber\" - | composite ${resizedIconBadge} - ${TARGET_PATH}\n    fi\n    \n    if [ \"${CONFIGURATION}\" == \"Release\" ]; then\n    convert ${iconbadgeRelease} -resize ${WIDTH}x${WIDTH} ${resizedIconBadge}\n    convert ${BASE_IMAGE_PATH} -fill white -font Times-Boldr -pointsize ${FONT_SIZE} -gravity south -annotate 0 \"$versionNumber.$buildNumber\" - | composite ${resizedIconBadge} - ${TARGET_PATH}\n    fi\n}\n\ngenerateIcon \"AppIcon20x20@2x.png\"\ngenerateIcon \"AppIcon20x20@3x.png\"\ngenerateIcon \"AppIcon29x29@2x.png\"\ngenerateIcon \"AppIcon29x29@3x.png\"\ngenerateIcon \"AppIcon40x40@2x.png\"\ngenerateIcon \"AppIcon40x40@3x.png\"\ngenerateIcon \"AppIcon60x60@2x.png\"\ngenerateIcon \"AppIcon60x60@3x.png\"\n\n";
+		};
+		B2BAA0FB1F1F397C0054DC98 /* icon script for app */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "icon script for app";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "IFS=$'\\n'\nbuildNumber=$(/usr/libexec/PlistBuddy -c \"Print CFBundleVersion\" \"${INFOPLIST_FILE}\")\nversionNumber=$(/usr/libexec/PlistBuddy -c \"Print CFBundleShortVersionString\" \"${INFOPLIST_FILE}\")\nbundleIdentifier=${PRODUCT_BUNDLE_IDENTIFIER}\n\nPATH=${PATH}:/usr/local/bin\n\necho \"this is PR Environment\"\n\nfunction generateIcon () {\n    \n    BASE_IMAGE_NAME=$1\n    \n    TARGET_PATH=\"${BUILT_PRODUCTS_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/${BASE_IMAGE_NAME}\"\n    echo \"this line is target path\"\n    echo $TARGET_PATH\n    echo $SRCROOT\n    echo $(find ${SRCROOT} -name \"AppIcon60x60@2x.png\")\n    BASE_IMAGE_PATH=$(find ${SRCROOT} -name ${BASE_IMAGE_NAME})\n    WIDTH=$(identify -format %w ${BASE_IMAGE_PATH})\n    FONT_SIZE=$(echo \"$WIDTH * .15\" | bc -l)\n    echo \"font size $FONT_SIZE\"\n    \n    iconbadgeDebug=\"${SRCROOT}/iconbadge/prbetaRibbon.png\"\n    iconbadgeRelease=\"${SRCROOT}/iconbadge/resizedRibbon.png\"\n    resizedIconBadge=\"${SRCROOT}/iconbadge/resizedRibbon.png\"\n    echo \"iconbadge is $iconbadge\"\n    \n    if [ \"${CONFIGURATION}\" == \"Debug\" ]; then\n    convert ${iconbadgeDebug} -resize ${WIDTH}x${WIDTH} ${resizedIconBadge}\n    convert ${BASE_IMAGE_PATH} -fill white -font Times-Bold -pointsize ${FONT_SIZE} -gravity south -annotate 0 \"$versionNumber.$buildNumber\" - | composite ${resizedIconBadge} - ${TARGET_PATH}\n    fi\n    \n    if [ \"${CONFIGURATION}\" == \"Release\" ]; then\n    convert ${iconbadgeRelease} -resize ${WIDTH}x${WIDTH} ${resizedIconBadge}\n    convert ${BASE_IMAGE_PATH} -fill white -font Times-Boldr -pointsize ${FONT_SIZE} -gravity south -annotate 0 \"$versionNumber.$buildNumber\" - | composite ${resizedIconBadge} - ${TARGET_PATH}\n    fi\n}\n\ngenerateIcon \"AppIcon20x20@2x.png\"\ngenerateIcon \"AppIcon20x20@3x.png\"\ngenerateIcon \"AppIcon29x29@2x.png\"\ngenerateIcon \"AppIcon29x29@3x.png\"\ngenerateIcon \"AppIcon40x40@2x.png\"\ngenerateIcon \"AppIcon40x40@3x.png\"\ngenerateIcon \"AppIcon60x60@2x.png\"\ngenerateIcon \"AppIcon60x60@3x.png\"";
+		};
+		B2BAA0FF1F1F3BF90054DC98 /* version */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = version;
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "#!/bin/sh\n# 自增构建数\n# via: http://stackoverflow.com/q/9258344\n#!/usr/bin/env ruby\n\necho $CONFIGURATION\nif [ \"Release\" == \"${CONFIGURATION}\" ]\nthen\nbuildNumber=$(/usr/libexec/PlistBuddy -c \"Print CFBundleVersion\" \"${INFOPLIST_FILE}\")\nbuildNumber=$(($buildNumber + 1))\n/usr/libexec/PlistBuddy -c \"Set :CFBundleVersion $buildNumber\" \"${INFOPLIST_FILE}\"\necho \"build number increase\"\nfi\n";
+		};
+		B2BAA1001F1F3C140054DC98 /* version */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = version;
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "#!/bin/sh\n# 自增构建数\n# via: http://stackoverflow.com/q/9258344\n#!/usr/bin/env ruby\n\necho $CONFIGURATION\nif [ \"Release\" == \"${CONFIGURATION}\" ]\nthen\nbuildNumber=$(/usr/libexec/PlistBuddy -c \"Print CFBundleVersion\" \"${INFOPLIST_FILE}\")\nbuildNumber=$(($buildNumber + 1))\n/usr/libexec/PlistBuddy -c \"Set :CFBundleVersion $buildNumber\" \"${INFOPLIST_FILE}\"\necho \"build number increase\"\nfi\n";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		B2BAA0B21F1EF5100054DC98 /* Sources */ = {
@@ -341,7 +405,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "$(SRCROOT)/CBTDisTingGuishDevEnvironment/CBTDisTingGuishDevEnvironment.plist";
+				INFOPLIST_FILE = CBTDisTingGuishDevEnvironment/CBTSubscriptDemo.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.microfastup.weixun.CBTDisTingGuishDevEnvironment;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -352,7 +416,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "$(SRCROOT)/CBTDisTingGuishDevEnvironment/CBTDisTingGuishDevEnvironment.plist";
+				INFOPLIST_FILE = CBTDisTingGuishDevEnvironment/CBTSubscriptDemo.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.microfastup.weixun.CBTDisTingGuishDevEnvironment;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -384,7 +448,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B2BAA0B11F1EF5100054DC98 /* Build configuration list for PBXProject "CBTDisTingGuishDevEnvironment" */ = {
+		B2BAA0B11F1EF5100054DC98 /* Build configuration list for PBXProject "CBTSubscriptDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B2BAA0CE1F1EF5100054DC98 /* Debug */,
@@ -393,13 +457,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B2BAA0D01F1EF5100054DC98 /* Build configuration list for PBXNativeTarget "CBTDisTingGuishDevEnvironment" */ = {
+		B2BAA0D01F1EF5100054DC98 /* Build configuration list for PBXNativeTarget "CBTSubscriptDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B2BAA0D11F1EF5100054DC98 /* Debug */,
 				B2BAA0D21F1EF5100054DC98 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B2BAA0F41F1F10C40054DC98 /* Build configuration list for PBXNativeTarget "CBTDisTingGuishAppStoreEnvironment" */ = {
 			isa = XCConfigurationList;
